@@ -18,6 +18,7 @@
     "pdo_mysql",
     "sqlite3",
     "pdo_sqlite",
+    "pcntl",
     "phar",
     "session",
     "simplexml",
